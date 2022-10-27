@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moralesa-E
-- 👀 I’m interested in Data science, machine learnig, deep learnig and frontend development
+- 👀 I’m interested in data science, machine learnig, deep learnig and frontend development
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
